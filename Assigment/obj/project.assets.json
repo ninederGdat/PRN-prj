@@ -4923,11 +4923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\C Sharp\\Assigment\\Assigment\\Assigment.csproj",
+      "projectUniqueName": "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\Assigment.csproj",
       "projectName": "Assigment",
-      "projectPath": "D:\\code\\C Sharp\\Assigment\\Assigment\\Assigment.csproj",
+      "projectPath": "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\Assigment.csproj",
       "packagesPath": "C:\\Users\\MSI LAPTOP\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\C Sharp\\Assigment\\Assigment\\obj\\",
+      "outputPath": "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
