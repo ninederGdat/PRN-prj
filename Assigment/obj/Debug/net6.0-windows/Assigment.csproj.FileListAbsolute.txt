@@ -61,3 +61,8 @@ D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
 D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.dll
 D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
 D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
