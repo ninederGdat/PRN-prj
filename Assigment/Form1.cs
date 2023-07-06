@@ -37,7 +37,7 @@ namespace Assigment
             capturedImage = (Bitmap)pictureBox1.Image.Clone();
             int randomValue = new Random().Next();
             ShowCapturedImage(capturedImage, randomValue);
-            SendMail();
+            SendMail(capturedImage);
             
 
             //Save picture
@@ -74,36 +74,48 @@ namespace Assigment
             showForm.Show();
         }
 
-        private void SendMail()
+        private void SendMail(Bitmap image)
         {
             string from, to, pass, content;
             from = "thienpmse160345@fpt.edu.vn";
-            to =  "thaohien1372002@gmail.com";
+            to = "thaohien1372002@gmail.com";
             pass = "vvcpwolgqymgjfeu";
-            content = "You lated 10 minute";
+            content = "You were 10 minutes late.";
+
             MailMessage mail = new MailMessage();
             mail.To.Add(to);
             mail.From = new MailAddress(from);
-            mail.Subject = "Test send email attendend ";
-            mail.Body= content;
+            mail.Subject = "Test send email attendance";
+            mail.Body = "<html><body><h1>" + content + "</h1><br><img src='cid:Image'></body></html>";
+            mail.IsBodyHtml = true;
 
-            SmtpClient smtp = new SmtpClient("smtp.gmail.com");
-            smtp.EnableSsl = true;
-            smtp.Port = 587;
-            smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
-            smtp.Credentials = new NetworkCredential(from, pass);
-            try
+            // Đính kèm hình ảnh
+            using (MemoryStream stream = new MemoryStream())
             {
-                smtp.Send(mail);
-                MessageBox.Show("Email sent successfully.", "Email", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                image.Save(stream, System.Drawing.Imaging.ImageFormat.Jpeg);
+                stream.Position = 0;
 
+                // Tạo phần tử đính kèm từ MemoryStream chứa hình ảnh
+                Attachment attachment = new Attachment(stream, "image.jpg");
+                attachment.ContentId = "Image";
+                mail.Attachments.Add(attachment);
+
+                SmtpClient smtp = new SmtpClient("smtp.gmail.com");
+                smtp.EnableSsl = true;
+                smtp.Port = 587;
+                smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
+                smtp.Credentials = new NetworkCredential(from, pass);
+
+                try
+                {
+                    smtp.Send(mail);
+                    MessageBox.Show("Email sent successfully.", "Email", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show(e.Message, "Email", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
-            catch(Exception e) 
-            {
-
-                MessageBox.Show(e.Message, "Email", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-
         }
 
     }
