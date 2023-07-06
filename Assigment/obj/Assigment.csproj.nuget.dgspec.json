@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\Assigment.csproj": {}
+    "D:\\PRN_Ass\\Assigment\\Assigment.csproj": {}
   },
   "projects": {
-    "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\Assigment.csproj": {
+    "D:\\PRN_Ass\\Assigment\\Assigment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\Assigment.csproj",
+        "projectUniqueName": "D:\\PRN_Ass\\Assigment\\Assigment.csproj",
         "projectName": "Assigment",
-        "projectPath": "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\Assigment.csproj",
-        "packagesPath": "C:\\Users\\MSI LAPTOP\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\CSharp\\Assigment\\PRN-prj\\Assigment\\obj\\",
+        "projectPath": "D:\\PRN_Ass\\Assigment\\Assigment.csproj",
+        "packagesPath": "C:\\Users\\thaoh\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN_Ass\\Assigment\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MSI LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

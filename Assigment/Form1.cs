@@ -4,7 +4,8 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 using MjpegProcessor;
-
+using System.Net;
+using System.Net.Mail;
 namespace Assigment
 {
     public partial class Form1 : Form
@@ -27,7 +28,7 @@ namespace Assigment
 
         private void button1_Click(object sender, EventArgs e)
         {
-            mjp.ParseStream(new Uri(" http://192.168.27.100:4747/video?640x480"));
+            mjp.ParseStream(new Uri(" http://192.168.1.56:4747/video?640x480"));
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -36,6 +37,7 @@ namespace Assigment
             capturedImage = (Bitmap)pictureBox1.Image.Clone();
             int randomValue = new Random().Next();
             ShowCapturedImage(capturedImage, randomValue);
+            SendMail();
             
 
             //Save picture
@@ -70,6 +72,38 @@ namespace Assigment
 
             // Hiển thị form ShowForm
             showForm.Show();
+        }
+
+        private void SendMail()
+        {
+            string from, to, pass, content;
+            from = "thienpmse160345@fpt.edu.vn";
+            to =  "thaohien1372002@gmail.com";
+            pass = "vvcpwolgqymgjfeu";
+            content = "You lated 10 minute";
+            MailMessage mail = new MailMessage();
+            mail.To.Add(to);
+            mail.From = new MailAddress(from);
+            mail.Subject = "Test send email attendend ";
+            mail.Body= content;
+
+            SmtpClient smtp = new SmtpClient("smtp.gmail.com");
+            smtp.EnableSsl = true;
+            smtp.Port = 587;
+            smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
+            smtp.Credentials = new NetworkCredential(from, pass);
+            try
+            {
+                smtp.Send(mail);
+                MessageBox.Show("Email sent successfully.", "Email", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            }
+            catch(Exception e) 
+            {
+
+                MessageBox.Show(e.Message, "Email", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
 
     }
