@@ -59,7 +59,7 @@ namespace Assigment
         {
             string from, to, pass, content;
             from = "thienpmse160345@fpt.edu.vn";
-            to = "thaohien1372002@gmail.com";
+            to = "longnhatlekk@gmail.com";
             pass = "vvcpwolgqymgjfeu";
             content = "You were 10 minutes late.";
 

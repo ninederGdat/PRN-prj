@@ -91,3 +91,4 @@ C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.g
 C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
 C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
 C:\Users\TGC\source\repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+C:\Users\TGC\source\repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
