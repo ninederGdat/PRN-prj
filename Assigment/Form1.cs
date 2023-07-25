@@ -38,30 +38,11 @@ namespace Assigment
             int randomValue = new Random().Next();
             ShowCapturedImage(capturedImage, randomValue);
             SendMail(capturedImage);
-            
 
-            //Save picture
-            //if (pictureBox1.Image != null)
-            //{
-            //    // Lưu ảnh từ PictureBox vào tệp tin
-            //    SaveFileDialog saveFileDialog = new SaveFileDialog();
-            //    saveFileDialog.Filter = "Image Files (*.jpg; *.jpeg; *.png)|*.jpg; *.jpeg; *.png";
-            //    if (saveFileDialog.ShowDialog() == DialogResult.OK)
-            //    {
-            //        pictureBox1.Image.Save(saveFileDialog.FileName);
 
-                  
-            //        MessageBox.Show("Đã chụp ảnh thành công!");
-
-            //    }
-            //}
-            //else
-            //{
-            //    MessageBox.Show("Không có khung hình để chụp!");
-            //}
         }
 
-        //Hàm xuất số ngẫu nhiên đi kèm hình
+
         private void ShowCapturedImage(Bitmap image, int randomValue)
         {
             // Tạo một instance của ShowForm
@@ -118,6 +99,10 @@ namespace Assigment
             }
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
