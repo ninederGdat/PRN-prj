@@ -90,3 +90,4 @@ C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.p
 C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
 C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
 C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+C:\Users\TGC\source\repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources

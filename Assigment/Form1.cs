@@ -23,24 +23,24 @@ namespace Assigment
 
         private void Mjp_FrameReady(object? sender, FrameReadyEventArgs e)
         {
-            pictureBox1.Image = e.Bitmap;
+            pricture1.Image = e.Bitmap;
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            mjp.ParseStream(new Uri(" http://192.168.1.56:4747/video?640x480"));
-        }
+        //private void button1_Click(object sender, EventArgs e)
+        //{
+        //    mjp.ParseStream(new Uri(" http://192.168.1.56:4747/video?640x480"));
+        //}
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            // Ghi lại và xuất số 
-            capturedImage = (Bitmap)pictureBox1.Image.Clone();
-            int randomValue = new Random().Next();
-            ShowCapturedImage(capturedImage, randomValue);
-            SendMail(capturedImage);
+        //private void button2_Click(object sender, EventArgs e)
+        //{
+        //    // Ghi lại và xuất số 
+        //    capturedImage = (Bitmap)pictureBox1.Image.Clone();
+        //    int randomValue = new Random().Next();
+        //    ShowCapturedImage(capturedImage, randomValue);
+        //    SendMail(capturedImage);
 
 
-        }
+        //}
 
 
         private void ShowCapturedImage(Bitmap image, int randomValue)
@@ -103,6 +103,34 @@ namespace Assigment
         {
 
         }
+
+
+
+        private void clickbutton1_Click(object sender, EventArgs e)
+        {
+            // Ghi lại và xuất số 
+            capturedImage = (Bitmap)pricture1.Image.Clone();
+            int randomValue = new Random().Next();
+            ShowCapturedImage(capturedImage, randomValue);
+            SendMail(capturedImage);
+
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_CheckedChanged(object sender, EventArgs e)
+        {
+            mjp.ParseStream(new Uri(" http://192.168.1.7:4747/video?640x480"));
+
+        }
+
+
+
+
     }
 }
 

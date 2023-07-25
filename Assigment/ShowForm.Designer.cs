@@ -28,43 +28,54 @@
         /// </summary>
         private void InitializeComponent()
         {
-            pictureBox1 = new PictureBox();
             textBox1 = new TextBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            pricture1 = new Design.Pricture();
+            ((System.ComponentModel.ISupportInitialize)pricture1).BeginInit();
             SuspendLayout();
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Location = new Point(86, 134);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(612, 212);
-            pictureBox1.TabIndex = 0;
-            pictureBox1.TabStop = false;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(108, 55);
+            textBox1.Location = new Point(325, 55);
+            textBox1.Margin = new Padding(2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(590, 31);
+            textBox1.Size = new Size(125, 23);
             textBox1.TabIndex = 1;
+            // 
+            // pricture1
+            // 
+            pricture1.BackColor = Color.LightSlateGray;
+            pricture1.BorderCapStyle = System.Drawing.Drawing2D.DashCap.Flat;
+            pricture1.BorderColor = Color.RoyalBlue;
+            pricture1.BorderColor2 = Color.HotPink;
+            pricture1.BorderLineStyle = System.Drawing.Drawing2D.DashStyle.Solid;
+            pricture1.BorderSize = 2;
+            pricture1.GradientAngle = 50F;
+            pricture1.Location = new Point(12, 12);
+            pricture1.Name = "pricture1";
+            pricture1.Size = new Size(241, 241);
+            pricture1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pricture1.TabIndex = 2;
+            pricture1.TabStop = false;
             // 
             // ShowForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackColor = Color.PeachPuff;
+            ClientSize = new Size(560, 270);
+            Controls.Add(pricture1);
             Controls.Add(textBox1);
-            Controls.Add(pictureBox1);
+            Margin = new Padding(2);
             Name = "ShowForm";
             Text = "ShowForm";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            Load += ShowForm_Load;
+            ((System.ComponentModel.ISupportInitialize)pricture1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private PictureBox pictureBox1;
         private TextBox textBox1;
+        private Design.Pricture pricture1;
     }
 }
