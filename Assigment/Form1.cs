@@ -26,23 +26,6 @@ namespace Assigment
             pricture1.Image = e.Bitmap;
         }
 
-        //private void button1_Click(object sender, EventArgs e)
-        //{
-        //    mjp.ParseStream(new Uri(" http://192.168.1.56:4747/video?640x480"));
-        //}
-
-        //private void button2_Click(object sender, EventArgs e)
-        //{
-        //    // Ghi lại và xuất số 
-        //    capturedImage = (Bitmap)pictureBox1.Image.Clone();
-        //    int randomValue = new Random().Next();
-        //    ShowCapturedImage(capturedImage, randomValue);
-        //    SendMail(capturedImage);
-
-
-        //}
-
-
         private void ShowCapturedImage(Bitmap image, int randomValue)
         {
             // Tạo một instance của ShowForm
@@ -50,18 +33,24 @@ namespace Assigment
 
             // Hiển thị ảnh đã chụp và giá trị ngẫu nhiên trên ShowForm
             showForm.ShowImage(image, randomValue);
-
+            showForm.ShowTime();
             // Hiển thị form ShowForm
             showForm.Show();
         }
 
         private void SendMail(Bitmap image)
         {
+            DateTime currentTime = DateTime.Now;
+            TimeSpan targetTime = new TimeSpan(7, 0, 0); // Mốc thời gian là 7 giờ
+            TimeSpan delay = currentTime.TimeOfDay - targetTime;
+            string delayFormatted = delay.ToString(@"hh\:mm\:ss");
+
+
             string from, to, pass, content;
             from = "thienpmse160345@fpt.edu.vn";
-            to = "thaohien1372002@gmail.com";
+            to = "dat36226@gmail.com";
             pass = "vvcpwolgqymgjfeu";
-            content = "You were 10 minutes late.";
+            content = "You lated " + delayFormatted;
 
             MailMessage mail = new MailMessage();
             mail.To.Add(to);
@@ -124,7 +113,7 @@ namespace Assigment
 
         private void button1_CheckedChanged(object sender, EventArgs e)
         {
-            mjp.ParseStream(new Uri(" http://192.168.1.7:4747/video?640x480"));
+            mjp.ParseStream(new Uri(" http://192.168.27.100:4747/video?640x480"));
 
         }
 

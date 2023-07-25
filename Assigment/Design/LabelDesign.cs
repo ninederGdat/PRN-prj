@@ -104,7 +104,7 @@ namespace Assigment.Design
                 {
                     pevent.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
                     //Button surface
-                    this.Region = new Region(pathSurface);
+                    //this.Region = new Region(pathSurface); // Xóa dòng này để không thay đổi kích thước form
                     //Draw surface border for HD result
                     pevent.Graphics.DrawPath(penSurface, pathSurface);
 
@@ -118,7 +118,7 @@ namespace Assigment.Design
             {
                 pevent.Graphics.SmoothingMode = SmoothingMode.None;
                 //Button surface
-                this.Region = new Region(rectSurface);
+                //this.Region = new Region(rectSurface); // Xóa dòng này để không thay đổi kích thước form
                 //Button border
                 if (borderSize >= 1)
                 {
@@ -132,4 +132,6 @@ namespace Assigment.Design
         }
 
     }
+
+
 }
