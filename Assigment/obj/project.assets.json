@@ -4924,11 +4924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TGC\\Source\\Repos\\PRN-prj\\Assigment\\Assigment.csproj",
+      "projectUniqueName": "C:\\Users\\TGC\\source\\repos\\PRN-prj\\Assigment\\Assigment.csproj",
       "projectName": "Assigment",
-      "projectPath": "C:\\Users\\TGC\\Source\\Repos\\PRN-prj\\Assigment\\Assigment.csproj",
+      "projectPath": "C:\\Users\\TGC\\source\\repos\\PRN-prj\\Assigment\\Assigment.csproj",
       "packagesPath": "C:\\Users\\TGC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TGC\\Source\\Repos\\PRN-prj\\Assigment\\obj\\",
+      "outputPath": "C:\\Users\\TGC\\source\\repos\\PRN-prj\\Assigment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

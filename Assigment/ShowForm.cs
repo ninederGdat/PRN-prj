@@ -19,8 +19,13 @@ namespace Assigment
 
         public void ShowImage(Bitmap image, int randomValue)
         {
-            pictureBox1.Image = image;
+            pricture1.Image = image;
             textBox1.Text = randomValue.ToString();
+        }
+
+        private void ShowForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
