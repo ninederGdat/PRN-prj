@@ -28,7 +28,7 @@ namespace Assigment
 
         private void button1_Click(object sender, EventArgs e)
         {
-            mjp.ParseStream(new Uri(" http://192.168.1.56:4747/video?640x480"));
+            mjp.ParseStream(new Uri(" http://192.168.1.22:4747/video?640x480"));
         }
 
         private void button2_Click(object sender, EventArgs e)
