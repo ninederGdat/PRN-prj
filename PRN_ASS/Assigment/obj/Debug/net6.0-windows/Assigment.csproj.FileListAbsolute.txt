@@ -1,0 +1,364 @@
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\code\C Sharp\Assigment\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\code\C Sharp\Assigment\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+D:\code\CSharp\Assigment\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\PRN_Ass\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\PRN_Ass\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+C:\Users\TGC\Source\Repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+C:\Users\TGC\source\repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+C:\Users\TGC\source\repos\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\code\CSharp\Assigment2\PRN-prj\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+D:\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
+D:\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+D:\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\code\CSharp\PRN_ASS\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\zxing.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\ZXing.Windows.Compatibility.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\code\CSharp\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\zxing.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\ZXing.Windows.Compatibility.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PE-PRN\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\PE-PRN\PRN_ASS\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\zxing.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.exe
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.deps.json
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.runtimeconfig.json
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Assigment.pdb
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MJPEG.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\MjpegProcessor.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\zxing.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\ZXing.Windows.Compatibility.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PRN_A\PRN_ASS\Assigment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.AssemblyReference.cache
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Design.TextBox.resources
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form1.resources
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Form2.resources
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.Properties.Resources.resources
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.ShowForm.resources
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.GenerateResource.cache
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfoInputs.cache
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.AssemblyInfo.cs
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CoreCompileInputs.cache
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.csproj.CopyComplete
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.dll
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\refint\Assigment.dll
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.pdb
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.genruntimeconfig.cache
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\ref\Assigment.dll
+D:\PRN_A\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.LoginTeacher.resources
+C:\Users\MSI LAPTOP\Downloads\PRN_ASS\Assigment\obj\Debug\net6.0-windows\Assigment.LoginTeacher.resources
